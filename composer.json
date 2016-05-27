@@ -1,5 +1,5 @@
 {
-    "name": "sonata-project/page-bundle",
+    "name": "krbl-sonata-project/page-bundle",
     "type": "symfony-bundle",
     "description": "Symfony SonataPageBundle",
     "keywords": ["page", "sonata", "cms"],
